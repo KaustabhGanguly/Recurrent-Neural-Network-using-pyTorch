@@ -10,3 +10,6 @@ Early RNNs of the 1990s could not learn to look far back into the past. Their pr
 4. Stable generation of precisely timed rhythms, smooth and non-smooth periodic trajectories 
 5. Robust storage of high-precision real numbers across extended time intervals.
 
+Results:
+
+![down](https://image.ibb.co/h2Xga7/Screen_Shot_2018_03_09_at_2_08_23_PM.png)
